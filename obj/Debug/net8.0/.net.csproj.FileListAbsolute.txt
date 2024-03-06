@@ -1,0 +1,14 @@
+H:\new explored tech\.net\bin\Debug\net8.0\.net.exe
+H:\new explored tech\.net\bin\Debug\net8.0\.net.deps.json
+H:\new explored tech\.net\bin\Debug\net8.0\.net.runtimeconfig.json
+H:\new explored tech\.net\bin\Debug\net8.0\.net.dll
+H:\new explored tech\.net\bin\Debug\net8.0\.net.pdb
+H:\new explored tech\.net\obj\Debug\net8.0\.net.GeneratedMSBuildEditorConfig.editorconfig
+H:\new explored tech\.net\obj\Debug\net8.0\.net.AssemblyInfoInputs.cache
+H:\new explored tech\.net\obj\Debug\net8.0\.net.AssemblyInfo.cs
+H:\new explored tech\.net\obj\Debug\net8.0\.net.csproj.CoreCompileInputs.cache
+H:\new explored tech\.net\obj\Debug\net8.0\.net.dll
+H:\new explored tech\.net\obj\Debug\net8.0\refint\.net.dll
+H:\new explored tech\.net\obj\Debug\net8.0\.net.pdb
+H:\new explored tech\.net\obj\Debug\net8.0\.net.genruntimeconfig.cache
+H:\new explored tech\.net\obj\Debug\net8.0\ref\.net.dll
